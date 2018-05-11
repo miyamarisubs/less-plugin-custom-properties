@@ -33,6 +33,7 @@ $ yarn add -D less-plugin-custom-properties
 :root {
     --bg: #000;
     --fg: #fff;
+    --font: Roboto, sans-serif;
 }
 
 @media (print) {
