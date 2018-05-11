@@ -1,0 +1,16 @@
+{
+    "name": "less-plugin-custom-properties",
+    "version": "0.0.1",
+    "description": "LESS plugin to transform LESS variables to CSS custom properties",
+    "main": "index.js",
+    "repository": "https://github.com/miyamarisubs/less-plugin-custom-properties",
+    "author": "Marina Miyaoka <miyaokamarina@gmail.com> (https://t.me/miyaokamarina)",
+    "license": "MIT",
+    "dependencies": {
+        "cosmiconfig": "^5.0.2"
+    },
+    "devDependencies": {
+        "less": "^3.0.4",
+        "prettier": "^1.12.1"
+    }
+}
